@@ -10,4 +10,8 @@ Este é o meu entendimento sobre o projetos e os processos utililzados no projet
 # O que são fluxos de trabalhos visuais?
 Um fluxo de trabalho é definido como a organização sistemática de recursos para criar processos que transformam materiais, fornecem serviços ou processam informações. Essencialmente, é uma sequência de operações conduzidas por uma pessoa, uma organização de pessoal ou um ou mais mecanismos simples ou complexos.
 
+# O que é rabbitMQ ?
+É um sistema responsável pelo recebiemento,guarda, envio e entrega de mensagens entre aplicações.Também conhecido como sistema de mensageria,é uma forma de comunicação baseada em eventos,utilizada para comunicação de sistemas distribuidos.
 
+# Workflow studio ?
+É um designer de fluxo de trabalho visual de baixo código que permite criar fluxos de trabalho de tecnologia sem servidor orquestrando serviços da AWS.
