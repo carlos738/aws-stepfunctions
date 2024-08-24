@@ -24,3 +24,6 @@ A Amazon Web Services (AWS) ajuda você a se movimentar mais rapidamente, reduzi
 
 # O que é Claude # Haiku ?
 É um modelo de IA mais veloz e acessível em sua categoria. Com capacidade de visão e desempenho robusto em benchmarks da indústria,é uma solução versátil para uma ampla gama de aplicações empresariais.
+
+
+O projeto disponibilizado no step functions usou-se as tecnologias da AWS para criar um aplicativo dellivery de entrega usando todas as tecnologias acima e muitas outras .
