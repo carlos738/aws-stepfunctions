@@ -15,3 +15,12 @@ Um fluxo de trabalho é definido como a organização sistemática de recursos p
 
 # Workflow studio ?
 É um designer de fluxo de trabalho visual de baixo código que permite criar fluxos de trabalho de tecnologia sem servidor orquestrando serviços da AWS.
+
+# PRECIFICAÇÃO NA AWS 
+
+
+
+A Amazon Web Services (AWS) ajuda você a se movimentar mais rapidamente, reduzir os custos de TI e atingir escala global por meio de um amplo conjunto de serviços globais de computação, armazenamento, banco de dados, análise, aplicações e implantação. Um dos principais benefícios dos serviços de nuvem é a capacidade que eles oferecem de otimizar os custos para atender às suas necessidades, mesmo que essas necessidades mudem com o tempo. 
+
+# O que é Claude # Haiku ?
+É um modelo de IA mais veloz e acessível em sua categoria. Com capacidade de visão e desempenho robusto em benchmarks da indústria,é uma solução versátil para uma ampla gama de aplicações empresariais.
