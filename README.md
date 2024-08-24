@@ -30,5 +30,14 @@ A Amazon Web Services (AWS) ajuda você a se movimentar mais rapidamente, reduzi
 # O que é Claude Haiku ?
 É um modelo de IA mais veloz e acessível em sua categoria. Com capacidade de visão e desempenho robusto em benchmarks da indústria,é uma solução versátil para uma ampla gama de aplicações empresariais.
 
+# Um dos serviços da AWS?
+
+O SDK do AWS Neuron ajuda os desenvolvedores a treinar modelos no AWS Trainium (e a implantar modelos nos chips do AWS Inferentia). Ele se integra nativamente a estruturas, como PyTorch e TensorFlow, para que você possa continuar usando seu código e fluxos de trabalho existentes para treinar modelos nas instâncias Trn1.
+
+# Amazon EC2
+Oferece um grande número de tipos de instância otmizadas para atender diferentes tipos de caso de uso.Os tipos de instâncias consistem em várias combinações de CPU, memória, armazenamento e capacidade de rede e oferecem flexibilidade de escolha da composição adequada de recursos para os seus aplicativos.
+
+# Níveis gratuitos da AWS
+Esses níveis as ofertas são sempre gratuitas mas vencem 12 meses após o cadastramento.
 
 O projeto disponibilizado no step functions usou-se as tecnologias da AWS para criar um aplicativo dellivery de entrega usando todas as tecnologias acima e muitas outras .
