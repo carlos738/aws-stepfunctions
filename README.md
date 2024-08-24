@@ -1,6 +1,11 @@
 # aws-stepfunctions
 Este é o meu entendimento sobre o projetos e os processos utililzados no projeto.
 
+# Amazon Bedrock 
+É um serviço gerenciado que disponibiliza modelos de alto desempenho(FMs) das principais startups de IA e da Amazon por meio de um sistema unifcado,API você pode escolher uma ampla variedade de modelos com base no seu uso, ele também oferece um amplo conjunto e recursos para criar aplicações de IA generativa como segurança e privacidade. 
+
+
+
 # O que é aws step-functions?
 É um serviço de fluxo de trabalho visual que ajuda a criar aplicativos distribuidos, automatizar processos, orquestrar microsserviços e criar pipelines e aprendizado de máquina(ML).
 
